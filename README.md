@@ -53,7 +53,9 @@ The goal is to predict wine quality scores using various chemical properties of 
 
 ## 👨‍💻 Authors
 - Tejas Shinde  
-> (You can add other contributors here if any)
+- Eeshan Arekar 
+- Dwij Sawant
+- Riyansh
 
 ## 📜 License
 This project is open-source and free to use under the MIT License.
